@@ -1,5 +1,4 @@
-# DnD-manual-templates-word
-MS *Word* template for **Dungeons &amp; Dragons**® unofficial *Rules Supplement*s.
+<img src="pics/AD&D_color_logo.webp" width="640" />
 
 This is a project started in 2007, that delivered two Microsoft *Word* templates (old Word 97-2003 `.dot` file format) mocking up the desktop-publishing style of core manuals of two different historical editions of the [*Dungeons & Dragons*®](https://dnd.wizards.com/) role-playing game by [Wizards of the Coast](https://company.wizards.com):
  * ***Advanced Dungeons & Dragons***® *2nd Edition*, including the so-called "2.5 Edition" (*Skills & Powers* Player's and DM's Options);
