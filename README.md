@@ -4,7 +4,8 @@ This is a project started in 2007, that delivered two Microsoft *Word* templates
  * ***Advanced Dungeons & Dragons***® *2nd Edition*, including the so-called "2.5 Edition" (*Skills & Powers* Player's and DM's Options);
  * ***Dungeons & Dragons***® *3rd* and *3.5 Edition*s.
 The above templates are under the `templates/` subfolder of the project.
-Please also consider that, in order to properly render the templates, you need properly install several fonts and procure the appropriate licenses for, whenever they are protected by additional (commercial o noncommercial) licenses. For the sole purpose of referencing such fonts' full names (and their TrueType/OpenType filenames), have a look at the `fonts/` subfolder.
+
+Please also consider that, in order to properly render the templates, you need properly install several fonts and procure the appropriate licenses for, whenever they are protected by additional (commercial or noncommercial) licenses. For the sole purpose of referencing such fonts' full names (and their TrueType/OpenType filenames), have a look at the `fonts/` subfolder.
 
 The above templates have been used by the author to type manual with additional, unofficial rule set for the former edition of the two: the *AD&D® Expanded Player's Handbook* (presented here in rendered in PDF file format). In particular, the additional rules, valid for 2nd Edition of the famous RPG game, include general, as well Campaign Setting specific rules.
 In particular, rules in this manual, even if copied from other official rules, were ported from pure 2nd Edition to 2.5 Edition, that is: using race points (RPs) and class points (CPs) at character's creation; using MTHAC0/MAC based psionic powers; combining 2.5 Edition RP/CP framework with 2nd Edition class-based kits; revisiting 2nd-Edition Campaign Settings of AD&D® ‒ like *Al-Qadim*™, *Dark Sun*® ('legacy' and 'new' edition), *Planescape*® ‒ to 2.5 Edition.
