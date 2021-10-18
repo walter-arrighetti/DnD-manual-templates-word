@@ -3,6 +3,7 @@
 This is a project started in 2007, that delivered two Microsoft *Word* templates (old Word 97-2003 `.dot` file format) mocking up the desktop-publishing style of core manuals of two different historical editions of the [*Dungeons & Dragons*®](https://dnd.wizards.com/) role-playing game by [Wizards of the Coast](https://company.wizards.com):
  * ***Advanced Dungeons & Dragons***® *2nd Edition*, including the so-called "2.5 Edition" (*Skills & Powers* Player's and DM's Options);
  * ***Dungeons & Dragons***® *3rd* and *3.5 Edition*s.
+
 The above templates are under the `templates/` subfolder of the project.
 
 Please also consider that, in order to properly render the templates, you need properly install several fonts and procure the appropriate licenses for, whenever they are protected by additional (commercial or noncommercial) licenses. For the sole purpose of referencing such fonts' full names (and their TrueType/OpenType filenames), have a look at the `fonts/` subfolder.
